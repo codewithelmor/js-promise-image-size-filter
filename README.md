@@ -1,4 +1,4 @@
-# image-size-filter
+# js-promise-image-size-filter
 
 In JavaScript, a Promise is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. Promises are a way to handle asynchronous code more elegantly and avoid the "callback hell" that can arise when dealing with multiple asynchronous operations.
 
