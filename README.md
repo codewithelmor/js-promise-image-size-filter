@@ -41,6 +41,6 @@ fetchData
   });
 ```
 
-The **then** method is used to handle the fulfilled state, and the catch method is used to handle the rejected state. Promises provide a more structured and readable way to work with asynchronous code compared to traditional callback patterns.
+The **`then`** method is used to handle the fulfilled state, and the catch method is used to handle the rejected state. Promises provide a more structured and readable way to work with asynchronous code compared to traditional callback patterns.
 
 ![2023-11-21 15-10-06](https://github.com/codewithelmor/js-promise-async-await-image-size-filter/assets/44918452/c53fa191-6e8a-4471-9397-2b001541d243)
