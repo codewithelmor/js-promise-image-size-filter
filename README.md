@@ -2,9 +2,9 @@
 
 ## Promise
 
-In JavaScript, a **Promise** is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. Promises are a way to handle asynchronous code more elegantly and avoid the "callback hell" that can arise when dealing with multiple asynchronous operations.
+In JavaScript, a **`Promise`** is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. Promises are a way to handle asynchronous code more elegantly and avoid the "callback hell" that can arise when dealing with multiple asynchronous operations.
 
-A **Promise** has three states:
+A **`Promise`** has three states:
 
 1. **Pending**: The initial state; the promise is neither fulfilled nor rejected.
 2. **Fulfilled**: The operation completed successfully, and the promise has a resulting value.
