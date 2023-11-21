@@ -1,12 +1,14 @@
 # js-promise-image-size-filter
 
-In JavaScript, a Promise is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. Promises are a way to handle asynchronous code more elegantly and avoid the "callback hell" that can arise when dealing with multiple asynchronous operations.
+## Promise
 
-A Promise has three states:
+In JavaScript, a **Promise** is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. Promises are a way to handle asynchronous code more elegantly and avoid the "callback hell" that can arise when dealing with multiple asynchronous operations.
 
-1. Pending: The initial state; the promise is neither fulfilled nor rejected.
-2. Fulfilled: The operation completed successfully, and the promise has a resulting value.
-3. Rejected: The operation failed, and the promise has a reason for the failure.
+A **Promise** has three states:
+
+1. **Pending**: The initial state; the promise is neither fulfilled nor rejected.
+2. **Fulfilled**: The operation completed successfully, and the promise has a resulting value.
+3. **Rejected**: The operation failed, and the promise has a reason for the failure.
 
 The basic syntax for creating a promise looks like this:
 
@@ -39,6 +41,6 @@ fetchData
   });
 ```
 
-The then method is used to handle the fulfilled state, and the catch method is used to handle the rejected state. Promises provide a more structured and readable way to work with asynchronous code compared to traditional callback patterns.
+The **then** method is used to handle the fulfilled state, and the catch method is used to handle the rejected state. Promises provide a more structured and readable way to work with asynchronous code compared to traditional callback patterns.
 
-[![Screenshot-2023-05-18-201106.png](https://i.postimg.cc/5tgQWxqM/Screenshot-2023-05-18-201106.png)](https://postimg.cc/gww2vbTM)
+![2023-11-21 15-10-06](https://github.com/codewithelmor/js-promise-async-await-image-size-filter/assets/44918452/c53fa191-6e8a-4471-9397-2b001541d243)
